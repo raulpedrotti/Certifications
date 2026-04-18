@@ -9,5 +9,5 @@ Includes:
 [2] INOVA - Integrated circuits designers course, with emphasis on mixed-signals (in Portuguese yet);
   - Along the 6-month duration of this course, I developed a PPG AFE IP in CMOS 65 nm process. Also, I was responsible for making the initial project specifications and top-level simulations. For more information, the paper is in the "Analog Front End Circuits" folder.
 
-[3] Microelectronic 2B - Programme of research, innovation and development in microelectronics.
-  - This program was offered by ELDORADO institute (100 vacancies offered) to motivate the Brazilian undergraduate students to research about ICs.
+[3] Microelectronic 2B - Programme of research, innovation and development in microelectronics (in Portuguese yet).
+  - This program was offered by ELDORADO institute (100 vacancies offered for a 6-month duration) to motivate the Brazilian undergraduate students to research about ICs. 
