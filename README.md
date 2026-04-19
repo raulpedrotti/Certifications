@@ -1,5 +1,5 @@
 # Certifications
-Contains the main certifications that I have obtained along my academic journey.
+Contains the main certifications that I have obtained along my academic journey
 
 Includes:
 
